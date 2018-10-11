@@ -1,4 +1,6 @@
 <?php
-$name = 'Barokie';
+$greeting = 'Barokie';
 
-echo "Hello $name";
+echo "Hello $greeting";
+
+require 'index.view.php';
